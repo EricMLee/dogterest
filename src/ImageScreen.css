@@ -1,0 +1,39 @@
+.imageBox{
+  object-fit: cover;
+  position:relative;
+  overflow:hidden;
+  
+  padding: 0;
+  margin: 0; 
+}
+.test{
+  padding: 0;
+  margin: 0;
+}
+.thumbnail{
+  padding: 0;
+  margin: 0;
+}
+.image{
+  background-color: rgb(42, 42, 46);
+  position:relative;
+  overflow:hidden;
+  padding-bottom:100%;
+  margin: 0;
+}
+.image img{
+  position: absolute;
+  max-width: 100%;
+  top: 50%;
+  left: 50%;
+  padding: 0;
+  margin: 0;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.test .thumbnail .image img{
+  transition: transform 2s;
+}
+.test:hover .thumbnail .image img{
+  transform: translateX(-50%) translateY(-50%) scale(1.2);
+}

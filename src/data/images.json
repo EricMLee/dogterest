@@ -1,0 +1,65 @@
+[{
+  "uid": "Base01",
+  "url": "./base01.jpg",
+  "catergory": "Dog"
+}, {
+  "uid": "Base02",
+  "url": "./base02.jpg",
+  "catergory": "Dog"
+}, {
+  "uid": "Base03",
+  "url": "./base03.jpg",
+  "catergory": "Cat"
+}, {
+  "uid": "Base04",
+  "url": "./base04.png",
+  "catergory": "misc"
+}, {
+  "uid": "Base05",
+  "url": "./base14.jpg",
+  "catergory": "Seal"
+}, {
+  "uid": "Base06",
+  "url": "./base06.jpg",
+  "catergory": "Cat"
+}, {
+  "uid": "Base07",
+  "url": "./base07.jpg",
+  "catergory": "Dog"
+}, {
+  "uid": "Base08",
+  "url": "./base08.jpg",
+  "catergory": "Dog"
+}, {
+  "uid": "Base09",
+  "url": "./base09.jpg",
+  "catergory": "Cat"
+}, {
+  "uid": "Base10",
+  "url": "./base10.jpg",
+  "catergory": "Dog"
+}, {
+  "uid": "Base11",
+  "url": "./base11.jpg",
+  "catergory": "Cat"
+}, {
+  "uid": "Base12",
+  "url": "./base12.jpg",
+  "catergory": "misc"
+}, {
+  "uid": "Base13",
+  "url": "./base13.png",
+  "catergory": "Seal"
+}, {
+  "uid": "Base14",
+  "url": "./base05.jpg",
+  "catergory": "Cat"
+}, {
+  "uid": "Base15",
+  "url": "./base15.jpg",
+  "catergory": "Seal"
+}, {
+  "uid": "Base16",
+  "url": "./base16.jpg",
+  "catergory": "Seal"
+}]

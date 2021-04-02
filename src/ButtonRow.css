@@ -1,0 +1,12 @@
+.bar{
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.barItem{
+  padding: 8px 20px;
+  letter-spacing: 1px;
+  background: rgb(228, 212, 212);
+  margin: 5px;
+  cursor: pointer;
+}
