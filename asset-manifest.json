@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dogterest/static/css/main.77f2c46f.chunk.css",
+    "main.js": "/dogterest/static/js/main.6a3b6084.chunk.js",
+    "main.js.map": "/dogterest/static/js/main.6a3b6084.chunk.js.map",
+    "runtime-main.js": "/dogterest/static/js/runtime-main.cd9d0401.js",
+    "runtime-main.js.map": "/dogterest/static/js/runtime-main.cd9d0401.js.map",
+    "static/js/2.6c55faea.chunk.js": "/dogterest/static/js/2.6c55faea.chunk.js",
+    "static/js/2.6c55faea.chunk.js.map": "/dogterest/static/js/2.6c55faea.chunk.js.map",
+    "static/js/3.e7b46842.chunk.js": "/dogterest/static/js/3.e7b46842.chunk.js",
+    "static/js/3.e7b46842.chunk.js.map": "/dogterest/static/js/3.e7b46842.chunk.js.map",
+    "index.html": "/dogterest/index.html",
+    "static/css/main.77f2c46f.chunk.css.map": "/dogterest/static/css/main.77f2c46f.chunk.css.map",
+    "static/js/2.6c55faea.chunk.js.LICENSE.txt": "/dogterest/static/js/2.6c55faea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd9d0401.js",
+    "static/js/2.6c55faea.chunk.js",
+    "static/css/main.77f2c46f.chunk.css",
+    "static/js/main.6a3b6084.chunk.js"
+  ]
+}
